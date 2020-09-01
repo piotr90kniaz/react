@@ -1,0 +1,5 @@
+1. Copy 'table-app' project on the local environment.
+2. Change directory to 'table-app' in cmd.
+2. Type 'npm install' and press Enter.
+3. Type 'npm start' and press Enter.
+4. Open http://localhost:3000 to view the app in the browser. 
